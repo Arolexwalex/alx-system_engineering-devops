@@ -1,1 +1,1 @@
-deleted
+delete js
