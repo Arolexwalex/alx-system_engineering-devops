@@ -1,1 +1,1 @@
-delete js
+good deleting
